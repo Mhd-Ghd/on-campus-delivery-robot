@@ -9,11 +9,11 @@
 	[-c] - Situation Description
 	[-c] - problem defination
 	[-c] - Objectives
-	[] - Engineering Standards
+	[-c] - Engineering Standards
 	[-c] - Constriants
 	[] - Specifications
 	[-c] - literature review
-	[] - background and analysis
+	[-c?] - background and analysis
 	[-a] - analyze alternatives 
 	[-a] - matuaring baseline design
 [3] - Product baseline design : 
@@ -31,7 +31,7 @@
 	[] - Technical Aspects
 	[-a] - Cost analysis
 	[] - Enviromental impact 
-	[] - Impact on society
+	[-a] - Impact on society
 	[] -  global impact 
 
 [5] - refrences
