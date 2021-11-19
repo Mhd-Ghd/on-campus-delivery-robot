@@ -1,0 +1,37 @@
+[#] : completed
+[   ] : incompleted
+==============================[Term-One-report]================================
+[1] - introduction:
+	[] - about the project
+	[] - background
+[2] - conceptual design:
+	[] - Situation Description
+	[] - problem defination
+	[] - Objectives
+	[] - Engineering Standards
+	[] - Constriants
+	[] - Specifications
+	[] - literature review
+	[] - background and analysis
+	[] - analyze alternatives 
+	[] - matuaring baseline design
+[3] - Product baseline design : 
+	[A] Block Diagram
+	[B] - System Description
+		[] - circuit schematic
+		[] - component specifications
+		[] - flow chart for software blocks
+		[] - mechanical specifications of the case 
+		[] - possible aesthetics
+		[] - in/out specifications
+		[] - operating instructions
+	[C] - Simulation Results 
+[4] - Evaluation of the baseline design:
+	[] - Technical Aspects
+	[] - Cost analysis
+	[] - Enviromental impact 
+	[] - Impact on society
+	[] -  global impact 
+
+[5] - refrences
+=============================================================================
