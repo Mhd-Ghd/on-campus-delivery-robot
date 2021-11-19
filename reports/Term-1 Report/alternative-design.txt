@@ -13,16 +13,16 @@
 	[#] - controllers 
 [3] - Discuss three alternatives: 
 	[#] - block diagram of each
-	[] - discuss total cost of each
-	[] - choose the best
-	[] - justify based on pros cons
+	[#] - discuss total cost of each
+	[#] - choose the best
+	[#] - justify based on pros cons
 [4] - Mature the selected design:
-	[] - do objective analytical evaluation of best design
-	[] - state the changes 
-	[] - reasons for those changes
-	[] - give the modified block diagram
+	[#] - do objective analytical evaluation of best design
+	[#] - state the changes 
+	[#] - reasons for those changes
+	[N/A] - give the modified block diagram
 	[] -  specifications/schematics/procedure
-	[] - update cost table
+	[#] - update cost table
 [5] - Impacts :
 	[#] -  Impact of each component
 	[#] - economic impact of the product
