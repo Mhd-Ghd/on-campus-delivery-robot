@@ -13,12 +13,12 @@
 	[-c] - Constriants
 	[] - Specifications
 	[-c] - literature review
-	[-c?] - background and analysis
+	[-c] - background and analysis
 	[-a] - analyze alternatives 
 	[-a] - matuaring baseline design
 [3] - Product baseline design : 
-	[A] Block Diagram
-	[B] - System Description
+	[] Block Diagram
+	[] - System Description:
 		[] - circuit schematic
 		[] - component specifications
 		[] - flow chart for software blocks
@@ -26,7 +26,7 @@
 		[] - possible aesthetics
 		[] - in/out specifications
 		[] - operating instructions
-	[C] - Simulation Results 
+	[] - Simulation Results 
 [4] - Evaluation of the baseline design:
 	[] - Technical Aspects
 	[-a] - Cost analysis
@@ -35,4 +35,5 @@
 	[] -  global impact 
 
 [5] - refrences
+[6] - apendix
 =============================================================================
