@@ -1,0 +1,55 @@
+[#] : completed
+[   ] : incompleted
+[-c]: charter	 [-a] alternative
+==============================[Term-One-report]================================
+[1] - introduction:
+	[S] - about the project
+	[S] - background
+[2] - conceptual design:
+	[-c] - Situation Description
+	[-c] - problem defination
+	[-c] - Objectives
+	[-c] - Engineering Standards
+	[-c] - Constriants
+	[M] - Specifications
+	[-c] - literature review
+	[-c] - background and analysis
+	[-a] - analyze alternatives 
+	[-a] - matuaring baseline design
+[3] - Product baseline design : 
+	[-a] Block Diagram
+	[] - System Description:
+		[W] - circuit schematic
+		[M] - component specifications
+		[M] - flow chart for software blocks
+		[W] - mechanical specifications of the case 
+		[S] - possible aesthetics
+		[M] - in/out specifications
+		[S] - operating instructions
+	[W] - Simulation Results 
+[4] - Evaluation of the baseline design:
+	[W] - Technical Aspects
+	[-a] - Cost analysis
+	[M] - Enviromental impact 
+	[-a] - Impact on society
+	[S] -  global impact 
+[5] - refrences
+[6] - appendix
+=============================================================================
+S: 
+[S] - about the project
+[S] - background
+[S] - possible aesthetics
+[S] - operating instructions
+[S] -  global impact 
+W:
+[W] - circuit schematic
+[W] - mechanical specifications of the case 
+[W] - Technical Aspects
+[W] - Simulation Results 
+M: 
+[M] - Specifications
+[M] - component specifications
+[M] - flow chart for software blocks
+[M] - Enviromental impact 
+[M] - in/out specifications
