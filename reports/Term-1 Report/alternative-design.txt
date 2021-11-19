@@ -20,7 +20,7 @@
 	[#] - do objective analytical evaluation of best design
 	[#] - state the changes 
 	[#] - reasons for those changes
-	[N/A] - give the modified block diagram
+	[X] - give the modified block diagram
 	[] -  specifications/schematics/procedure
 	[#] - update cost table
 [5] - Impacts :

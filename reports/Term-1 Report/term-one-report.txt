@@ -1,20 +1,21 @@
 [#] : completed
 [   ] : incompleted
+[-c]: charter	 [-a] alternative
 ==============================[Term-One-report]================================
 [1] - introduction:
 	[] - about the project
 	[] - background
 [2] - conceptual design:
-	[] - Situation Description
-	[] - problem defination
-	[] - Objectives
+	[-c] - Situation Description
+	[-c] - problem defination
+	[-c] - Objectives
 	[] - Engineering Standards
-	[] - Constriants
+	[-c] - Constriants
 	[] - Specifications
-	[] - literature review
+	[-c] - literature review
 	[] - background and analysis
-	[] - analyze alternatives 
-	[] - matuaring baseline design
+	[-a] - analyze alternatives 
+	[-a] - matuaring baseline design
 [3] - Product baseline design : 
 	[A] Block Diagram
 	[B] - System Description
@@ -28,7 +29,7 @@
 	[C] - Simulation Results 
 [4] - Evaluation of the baseline design:
 	[] - Technical Aspects
-	[] - Cost analysis
+	[-a] - Cost analysis
 	[] - Enviromental impact 
 	[] - Impact on society
 	[] -  global impact 
