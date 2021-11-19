@@ -9,8 +9,8 @@
 	[#] - Actuators 
 	[#] - Power electronic circuits
 	[#] - Sensors 
-	[] - Microelectronic receiving circuits 
-	[] - controllers 
+	[X] - Microelectronic receiving circuits 
+	[#] - controllers 
 [3] - Discuss three alternatives: 
 	[#] - block diagram of each
 	[] - discuss total cost of each
@@ -24,6 +24,6 @@
 	[] -  specifications/schematics/procedure
 	[] - update cost table
 [5] - Impacts :
-	[] -  Impact of each component
+	[#] -  Impact of each component
 	[#] - economic impact of the product
 =============================================================================
