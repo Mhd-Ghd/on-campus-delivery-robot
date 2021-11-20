@@ -11,7 +11,7 @@
 	[-c] - Objectives
 	[-c] - Engineering Standards
 	[-c] - Constriants
-	[M] - Specifications
+	[#] - Specifications
 	[-c] - literature review
 	[-c] - background and analysis
 	[-a] - analyze alternatives 
@@ -20,17 +20,17 @@
 	[-a] Block Diagram
 	[] - System Description:
 		[W] - circuit schematic
-		[M] - component specifications
-		[M] - flow chart for software blocks
+		[#] - component specifications
+		[#] - flow chart for software blocks
 		[W] - mechanical specifications of the case 
 		[S] - possible aesthetics
-		[M] - in/out specifications
+		[#] - in/out specifications
 		[S] - operating instructions
 	[W] - Simulation Results 
 [4] - Evaluation of the baseline design:
 	[W] - Technical Aspects
 	[-a] - Cost analysis
-	[M] - Enviromental impact 
+	[#] - Enviromental impact 
 	[-a] - Impact on society
 	[S] -  global impact 
 [5] - refrences
@@ -48,8 +48,8 @@ W:
 [W] - Technical Aspects
 [W] - Simulation Results 
 M: 
-[M] - Specifications
-[M] - component specifications
-[M] - flow chart for software blocks
-[M] - Enviromental impact 
-[M] - in/out specifications
+[#] - Specifications
+[#] - component specifications
+[#] - flow chart for software blocks
+[#] - Enviromental impact 
+[#] - in/out specifications
