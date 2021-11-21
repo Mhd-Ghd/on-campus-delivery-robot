@@ -2,9 +2,9 @@
 [   ] : incompleted
 ==============================[Alternative Solutions]================================
 [1] - in Paragraph-Style :
-	[]- Problem Definition
-	[]- Project Objectives
-	[]- musts and wants
+	[#]- Problem Definition
+	[#]- Project Objectives
+	[#]- musts and wants
 [2] - intrduce the following components:
 	[#] - Actuators 
 	[#] - Power electronic circuits
