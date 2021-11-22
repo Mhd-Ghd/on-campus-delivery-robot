@@ -3,8 +3,8 @@
 [-c]: charter	 [-a] alternative
 ==============================[Term-One-report]================================
 [1] - introduction:
-	[S] - about the project
-	[S] - background
+	[#] - about the project
+	[#] - background
 [2] - conceptual design:
 	[-c] - Situation Description
 	[-c] - problem defination
@@ -23,9 +23,9 @@
 		[#] - component specifications
 		[#] - flow chart for software blocks
 		[W] - mechanical specifications of the case 
-		[S] - possible aesthetics
+		[#] - possible aesthetics
 		[#] - in/out specifications
-		[S] - operating instructions
+		[#] - operating instructions
 	[W] - Simulation Results 
 [4] - Evaluation of the baseline design:
 	[W] - Technical Aspects
@@ -37,11 +37,11 @@
 [6] - appendix
 =============================================================================
 S: 
-[S] - about the project
-[S] - background
-[S] - possible aesthetics
-[S] - operating instructions
-[S] -  global impact 
+[#] - about the project
+[#] - background
+[#] - possible aesthetics
+[#] - operating instructions
+[#] -  global impact 
 W:
 [W] - circuit schematic
 [W] - mechanical specifications of the case 
