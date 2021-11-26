@@ -22,13 +22,13 @@
 		[W] - circuit schematic
 		[#] - component specifications
 		[#] - flow chart for software blocks
-		[#] - mechanical specifications of the case 
+		[W] - mechanical specifications of the case 
 		[#] - possible aesthetics
 		[#] - in/out specifications
 		[#] - operating instructions
 	[W] - Simulation Results 
 [4] - Evaluation of the baseline design:
-	[#] - Technical Aspects
+	[W] - Technical Aspects
 	[-a] - Cost analysis
 	[#] - Enviromental impact 
 	[-a] - Impact on society
